@@ -4,4 +4,4 @@ In this, I have used the Vader sentiment analyzer to analyze the sentiment of th
 Then I applied transformers to predict the sentiment of tweets and compared the results of those with Vader's.
 Then I created a manual Niave Bayes, SVM, Decision Tree, and Logistic regression model from scratch. And by that, I predicted the label of those tweets means supervised learning.
 
-Next, I made a dataset of fake news and applied Niave Bayes, Random Forest, and LSTM models to predict whether it was fake or real. And then I created a paper based on this observation. The paper is named 'intern_researchPaper'.
+Next, I made a dataset of fake news and applied Niave Bayes, Random Forest, and LSTM models to predict whether it was fake or real. And then I created a paper based on this observation. The paper is named 'intern_researchPaper'. The dataset is very large so I uploaded it in drive and paste the link in 'CombinedENGHINnews'
